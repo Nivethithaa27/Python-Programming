@@ -6,7 +6,7 @@ for i in range(1, 6):
     print(i)
 
 # Loop through a list
-months = ["March", "April", "May", "June", "July", "August"]
+months = ["March", "April", "May", "June", "July", "August","september"]
 print("\nMy learning months:")
 for month in months:
     print(f"  {month}")
