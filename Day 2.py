@@ -23,7 +23,7 @@ print(word[4:])    # prints "batore"
 print(word[-3:])   # prints last 3 letters
 
 # .split() breaks string into a list
-words = sentence.split()
+words = Dream_job.split()
 print(words)
 print(f"Word count: {len(words)}")
 
