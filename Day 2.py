@@ -17,10 +17,10 @@ print(new_sentence)
 
 # Slicing: get part of a string
 # [start:end] — end is not included
-word = "Coimbatore"
-print(word[0:4])   # prints "Coim"
-print(word[4:])    # prints "batore"
-print(word[-3:])   # prints last 3 letters
+name = "Nivethitha Kannan"
+print(name[0:4])   # prints "Nive"
+print(name[4:8])   # prints "thit"
+print(name[-3:])   # prints last 3 letters
 
 # .split() breaks string into a list
 words = Dream_job.split()
