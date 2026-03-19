@@ -35,7 +35,12 @@ Then move into LLM APIs and Agentic AI frameworks.
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/nivethithakannan)
 
-
-
-├── projects/
-│   └── (small projects go here later)
+python-learning/
+├── hello_world.py       ← Day 1
+├── data_types.py        ← Day 1
+├── strings_practice.py  ← Day 2
+├── lists_practice.py    ← Day 2
+├── loops_practice.py    ← Day 3
+├── functions_practice.py← Day 3
+├── dictionaries_practice.py ← Day 4
+└── mini_project.py      ← Day 4
