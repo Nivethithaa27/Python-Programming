@@ -1,8 +1,6 @@
 # Day 1 - Program 1: Hello World
-# This is a comment. Python ignores it.
-# Comments explain what your code does.
-
 # Variables store information
+
 name = "Nivethitha"
 age = 21
 city = "Sathyamangalam"
@@ -24,8 +22,8 @@ print(f"Hello! I am {name}, {age} years old girl from {city}.I love to eat {favo
 # Day 1 - Program 2: Data Types
 
 # String = text (always in quotes)
-my_name = "Ravi"
-my_city = "Coimbatore"
+my_name = "Nivethitha"
+my_city = "sathyamangalam"
 
 # Integer = whole number (no quotes)
 my_age = 21
